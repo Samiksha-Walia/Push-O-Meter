@@ -176,7 +176,7 @@ class PushUpCounterApp(QWidget):
                 self.count_label.setText(f"Push-Up Count: {self.count}")
 
                 if self.target_pushups and self.count >= self.target_pushups:
-                    threading.Thread(target=self.speak_message, args=(f"Congratulations! You have completed {self.count} push-ups.",), daemon=True).start()
+                    threading.Thread(target=self.speak_message, args=(f"Congratulations! You have completed target of {self.count} .",), daemon=True).start()
                     self.target_pushups = None
                     self.target_display.setText("🎯 Target Achieved!")
 
