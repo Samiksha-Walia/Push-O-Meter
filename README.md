@@ -35,8 +35,9 @@ python pushup_counter.py
 
 
 
-### 🙋‍♀️ Author
+
+## 👤 Author
 
 **Samiksha Walia**
-🔗 [LinkedIn](https://linkedin.com/in/samiksha-walia)
+[GitHub](https://github.com/Samiksha-Walia) • [LinkedIn](https://linkedin.com/in/samiksha-walia) 
 
